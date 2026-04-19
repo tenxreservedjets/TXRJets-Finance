@@ -1,6 +1,6 @@
-https://img.shields.io/badge/Status-Coming_Soon-blue
-https://img.shields.io/badge/Security-Stripe_Powered-green
-https://img.shields.io/badge/Coverage-FDIC_Eligible-gold
+<image src="https://img.shields.io/badge/Status-Coming_Soon-blue">
+<image src="https://img.shields.io/badge/Security-Stripe_Powered-green">
+<image src="https://img.shields.io/badge/Coverage-FDIC_Eligible-gold">
 
 
 # TXRJets Finance: The TXRJets Travel Account ✈️💳
