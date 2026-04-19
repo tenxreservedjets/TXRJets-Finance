@@ -1,3 +1,8 @@
+https://img.shields.io/badge/Status-Coming_Soon-blue
+https://img.shields.io/badge/Security-Stripe_Powered-green
+https://img.shields.io/badge/Coverage-FDIC_Eligible-gold
+
+
 # TXRJets Finance: The TXRJets Travel Account ✈️💳
 Official TenX Reserved Jets Finance app for private aviation banking.
 
