@@ -1,6 +1,4 @@
-<image src="https://img.shields.io/badge/Status-Coming_Soon-blue">
-<image src="https://img.shields.io/badge/Security-Stripe_Powered-green">
-<image src="https://img.shields.io/badge/Coverage-FDIC_Eligible-gold">
+
 
 
 # TXRJets Finance: The TXRJets Travel Account ✈️💳
@@ -52,3 +50,7 @@ Financial Account applications are not yet open to the general public. We are co
 **Email:** finance@tenxreservedjets.online
 **Website:** www.tenxreservedjets.online
 
+
+<p style="text-align:center;"><image src="https://img.shields.io/badge/Status-Coming_Soon-blue"></p>
+<p style="text-align:center;"><image src="https://img.shields.io/badge/Security-Stripe_Powered-green"></p>
+<p style="text-align:center;"><image src="https://img.shields.io/badge/Coverage-FDIC_Eligible-gold"></p>
