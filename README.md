@@ -1,3 +1,5 @@
+<img width="468" height="299" alt="TXRJets Card1" src="https://github.com/user-attachments/assets/59084143-5593-4a16-bd8a-c011838305a8" />
+
 
 
 
@@ -51,6 +53,6 @@ Financial Account applications are not yet open to the general public. We are co
 **Website:** www.tenxreservedjets.online
 
 
-<p style="text-align:center;"><image src="https://img.shields.io/badge/Status-Coming_Soon-blue"></p>
-<p style="text-align:center;"><image src="https://img.shields.io/badge/Security-Stripe_Powered-green"></p>
-<p style="text-align:center;"><image src="https://img.shields.io/badge/Coverage-FDIC_Eligible-gold"></p>
+<image src="https://img.shields.io/badge/Status-Coming_Soon-blue">
+<image src="https://img.shields.io/badge/Security-Stripe_Powered-green">
+<image src="https://img.shields.io/badge/Coverage-FDIC_Eligible-gold">
